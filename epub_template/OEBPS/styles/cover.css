@@ -1,0 +1,20 @@
+
+img.pagefit {
+	width: auto;
+	height: auto;
+	display: block;
+	margin: auto;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+body.imgpage {
+	text-align: center;
+	-epub-writing-mode: horizontal-tb;
+	-webkit-writing-mode: horizontal-tb;
+	margin: 0;
+}
+
+body {
+	font-size: 100%;
+}

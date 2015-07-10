@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+   <meta content="ID_UNKNOWN" name="dtb:uid"/>
+   <meta content="0" name="dtb:depth"/>
+   <meta content="0" name="dtb:totalPageCount"/>
+   <meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+   <text>test</text>
+</docTitle>
+<navMap>
+
+<navPoint id="navPoint-1" playOrder="1">
+  <navLabel>
+    <text>cover</text>
+  </navLabel>
+  <content src="Text/cover.xhtml"/>
+</navPoint>
+
+<navPoint id="navPoint-2" playOrder="2">
+  <navLabel>
+    <text>foreword</text>
+  </navLabel>
+  <content src="Text/foreword.xhtml"/>
+</navPoint>
+
+<navPoint id="navPoint-3" playOrder="3">
+  <navLabel>
+    <text>ch1</text>
+  </navLabel>
+  <content src="Text/ch1.xhtml"/>
+</navPoint>
+
+
+
+</navMap>
+</ncx>

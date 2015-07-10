@@ -1,0 +1,38 @@
+body {
+  -epub-writing-mode: vertical-rl;
+  -epub-line-break: normal;
+    font-size: 12px;
+}
+
+h1 {
+	margin: 0px 0px 0.5em 0px;
+	text-indent:3em;
+}
+
+h3 {
+	text-align: end;
+	letter-spacing: 0.3em;
+
+}
+
+p {
+	text-indent: 1em;
+	margin: 0 0.5em 0 0;
+	letter-spacing: 0.2em;
+	line-height: 1.2;
+	font-size: 12px;
+}
+
+ruby {
+	ruby-align:left;
+	ruby-overhang:auto;
+}
+
+rt {
+	text-transform: -epub-fullsize-kana;font-size:6px;
+}
+
+.-epub-media-overlay-active
+{
+    color:#f81818;
+}
