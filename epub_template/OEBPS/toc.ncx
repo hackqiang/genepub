@@ -17,24 +17,12 @@
   <navLabel>
     <text>cover</text>
   </navLabel>
-  <content src="Text/cover.xhtml"/>
+  <content src="text/cover.xhtml"/>
 </navPoint>
 
 <navPoint id="navPoint-2" playOrder="2">
   <navLabel>
     <text>foreword</text>
   </navLabel>
-  <content src="Text/foreword.xhtml"/>
+  <content src="text/foreword.xhtml"/>
 </navPoint>
-
-<navPoint id="navPoint-3" playOrder="3">
-  <navLabel>
-    <text>ch1</text>
-  </navLabel>
-  <content src="Text/ch1.xhtml"/>
-</navPoint>
-
-
-
-</navMap>
-</ncx>

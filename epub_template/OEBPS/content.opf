@@ -12,22 +12,3 @@
     <dc:date>2000-03-24</dc:date>
     <meta property="dcterms:dateCopyrighted">9999-01-01</meta>
   </metadata>
-  <manifest>
-    <item href="text/cover.xhtml" id="coverpage" media-type="application/xhtml+xml" />
-    <item href="text/foreword.xhtml" id="foreword" media-type="application/xhtml+xml" />
-    <item href="text/ch1.xhtml" id="ch1" media-type="application/xhtml+xml" />
-    <item href="styles/stylesheet.css" id="stylesheet" media-type="text/css" />
-    <item href="styles/cover.css" id="covercss" media-type="text/css" />
-    <item href="styles/foreword.css" id="forewordcss" media-type="text/css" />
-    <item href="images/cover.png" id="coverimage" media-type="image/png" properties="cover-image" />
-    <item href="images/sign.png" id="signature" media-type="image/png" />
-    <item href="images/author.jpg" id="authorpic" media-type="image/jpeg" />
-    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
-    <item href="audio/music.mp3" id="music.mp3" media-type="audio/mpeg" />
-  </manifest>
-  <spine toc="ncx">
-    <itemref idref="coverpage" />
-    <itemref idref="foreword" />
-    <itemref idref="ch1" />
-  </spine>
-</package>
